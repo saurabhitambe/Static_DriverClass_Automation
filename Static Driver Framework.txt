@@ -1,0 +1,16 @@
+Project Description:
+
+I have created "Static_DriverClass_Framework" project to automate all types of APIs like SOAP and REST using RestAssured.
+
+Features of Project are as follows:
+1) Capabilities to automate and Validation:
+     > Rest : POST, PUT, PATCH, DELETE and GET
+     > SOAP : POST
+
+2) In this project there are four different classes created
+    - Request_Repository
+    - Common API Methods
+    - Test classes
+    - Driver Class
+All methods execution is done by using their respective driver classes.
+
